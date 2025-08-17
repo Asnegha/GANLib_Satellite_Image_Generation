@@ -20,5 +20,10 @@ Trained DCGAN generate 64x64 pixel image.
 
 <img src="https://github.com/user-attachments/assets/0a3c65cf-fb4c-4807-8fc0-8ad9f161c9db" alt="Alt Text">
 
+Team Member:
+A Snegha
+SaiVivekMulukuri
+
+
 ## Reference
 Radford, Alec. "Unsupervised representation learning with deep convolutional generative adversarial networks." arXiv preprint [arXiv:1511.06434](https://arxiv.org/abs/1511.06434) (2015).
